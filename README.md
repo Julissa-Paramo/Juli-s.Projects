@@ -1,2 +1,2 @@
 # Personal.Projects
-All projects done outside of class!
+All of my projects!
