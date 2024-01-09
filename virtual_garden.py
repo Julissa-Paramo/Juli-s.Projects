@@ -1,8 +1,7 @@
 '''
 Julissa Paramo
 November, 2023
-CIS 121
-Final Project
+Virtual Garden
 '''
 
 def Greeting():
