@@ -1,2 +1,2 @@
-# Personal.Projects
-All of my projects!
+# Juli-s.Projects
+All of my projects! ^_^
