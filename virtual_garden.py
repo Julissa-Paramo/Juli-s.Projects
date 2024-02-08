@@ -4,6 +4,10 @@ November, 2023
 Virtual Garden
 '''
 
+# Project for CIS121 , completed with Adelynn Vang and Adriana Seda + coded by me
+# need to add : exception handling, errors , and infinite game mode
+
+
 def Greeting():
     '''This function greets the user with a message'''
     msg = "Welcome to your virtual garden.\nLet's get planting!\n"
