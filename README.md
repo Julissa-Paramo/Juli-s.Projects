@@ -1,4 +1,4 @@
 # Juli-s.Projects
-- 💙 python + java program
+- 💙 python + java programs
 - 🌟 these are all side projects 
 
