@@ -4,8 +4,8 @@ November, 2023
 Virtual Garden
 '''
 
-# Project for CIS121 , completed with Adelynn Vang and Adriana Seda + coded by me
-# need to add : exception handling, errors , and infinite game mode
+# Project for CIS121 , completed with Adelynn Vang and Adriana Seda
+# future updates : more exception handling, errors , and infinite game mode
 
 
 def Greeting():
